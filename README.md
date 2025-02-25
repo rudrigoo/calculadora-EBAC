@@ -15,7 +15,6 @@ Para rodar o script `calculadora.sh`, siga os passos:
    cd /caminho/do/arquivo
 
 2. Dê permissão de execução ao arquivo:
-chmod +x calculadora.sh
+```bash
+ chmod +x calculadora.sh
 
-3. Execute o script:
-./calculadora.sh
