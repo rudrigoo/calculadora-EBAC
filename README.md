@@ -17,4 +17,8 @@ Para rodar o script `calculadora.sh`, siga os passos:
 2. Dê permissão de execução ao arquivo:
 ```bash
  chmod +x calculadora.sh
+````
+3. Execute o script:
+```bash
+./calculadora.sh
 
